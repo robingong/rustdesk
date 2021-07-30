@@ -9,6 +9,10 @@
   <b>We need your help to translate this README to your native language</b>
 </p>
 
+
+免费开源的远程桌面软件。开箱即用无需任何配置，支持 Linux/Mac/Win/Android 等平台。还能够自行搭建服务器，由用户自己掌控数据，不必担心隐私数据泄露的问题。
+
+
 Chat with us: [Discord](https://discord.gg/nDceKgxnkV) | [Reddit](https://www.reddit.com/r/rustdesk)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I04VU09)
